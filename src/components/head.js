@@ -23,7 +23,7 @@ function Header() {
             <link
                 rel="stylesheet"
                 type="text/css"
-                href="https://cdn.jsdelivr.net/gh/akzhy/trunk/dist/trunk.min.css"
+                href="../src/components/trunk.min.css"
             />
             <link
                 href="https://fonts.googleapis.com/css?family=Work+Sans:800|Poppins&display=swap"
