@@ -1,11 +1,11 @@
 let siteMetadata = {
-    title: `DeUnevnlige`,
+    title: `De Unevnelige`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `Bjørn olav og Audun `,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `Tomanns poporkester`,
+    description: `Vi har kun ett ydmykt mål for øye: Å gjøre verden til et litt bedre sted. Vi spiller på alle strengene. Samtidig.`,
     author: `@webmaeistro`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -47,7 +47,7 @@ let siteMetadata = {
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#"
+            url: "https://www.facebook.com/DeUnevnelige/"
         },
         {
             name: "Twitter",
@@ -68,10 +68,11 @@ let siteMetadata = {
     contact: {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "./test.json",
-        description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
-        mail: "marander@pm.me",
-        phone: "000-000-0000",
-        address: "1234 \nLocation \nLocation"
+        description: `De unevnelige er et tomanns poporkester med kun ett ydmykt mål for øye: Å gjøre verden til et litt bedre sted. De spiller på alle strengene. Samtidig.
+        `,
+        mail: "bjorn.olav.tveit@gmail.com",
+        Messenger: "https://m.me/DeUnevnelige",
+        address: "Oslo, Norway"
     }
 };
 
