@@ -71,7 +71,7 @@ let siteMetadata = {
         description: `De unevnelige er et tomanns poporkester med kun ett ydmykt mål for øye: Å gjøre verden til et litt bedre sted. De spiller på alle strengene. Samtidig.
         `,
         mail: "bjorn.olav.tveit@gmail.com",
-        Messenger: "https://m.me/DeUnevnelige",
+        phone: "me.me/DeUnevnlige/",
         address: "Oslo, Norway"
     }
 };
